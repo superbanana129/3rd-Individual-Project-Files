@@ -65,8 +65,3 @@ Each notebook is self-contained and includes markdown cells describing input/out
 - **Export Options**: SVG generation is limited in resolution and may not reflect precise edge curves.
 - **Expandability**: Future work could integrate electromagnetic solvers for direct performance feedback.
 
-## Repository Link
-
-🧬 **GitHub Repo**: [github.com/yourusername/metamaterial-optimizer](https://github.com/yourusername/metamaterial-optimizer)
-
-This repository includes all code, sample outputs, and documentation.
